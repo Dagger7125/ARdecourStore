@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "870237717423",
+    "firebase_url": "https://ardecourstore-default-rtdb.firebaseio.com",
+    "project_id": "ardecourstore",
+    "storage_bucket": "ardecourstore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870237717423:android:63f29309df1fdd68da255a",
+        "android_client_info": {
+          "package_name": "com.unity.mynativeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870237717423-1pe5r724k9arrl43k4ishsqmlli9udg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmQUP3R4W2v8TwLemaDXG39UBhwDrUY_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870237717423-1pe5r724k9arrl43k4ishsqmlli9udg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
